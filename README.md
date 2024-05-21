@@ -7,7 +7,7 @@ Skills:   REACT / JS / HTML / CSS / Python / C / C++ / AWS
 - 📫 How to reach me: saksham1864@gmail.com 
 
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)' alt='github' height='40'>](https://github.com/saksham1864)  [<img src='https://img.icons8.com/?size=100&id=01GWmP9aUoPj&format=png&color=000000 ' alt='twitter' height='40'>](https://twitter.com/@ashmask24)  
+[<img src='https://img.icons8.com/?size=100&id=12599&format=png&color=000000' alt='github' height='40'>](https://github.com/saksham1864)  [<img src='https://img.icons8.com/?size=100&id=01GWmP9aUoPj&format=png&color=000000 ' alt='twitter' height='40'>](https://twitter.com/@ashmask24)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=saksham1864)  
 
