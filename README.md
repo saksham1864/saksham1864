@@ -1,6 +1,4 @@
 ### Hi there 👋, My name is Saksham
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 Skills:   REACT / JS / HTML / CSS / Python / C / C++ / AWS 
 
