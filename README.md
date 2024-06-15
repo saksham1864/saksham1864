@@ -1,4 +1,4 @@
-(https://github.com/saksham1864/saksham1864/assets/132849795/7a613556-ba40-4f5c-97d8-fc4624516b22)### Hi there 👋, My name is Saksham
+ Hi there 👋, My name is Saksham
 
 Skills:   REACT / JS / HTML / CSS / Python / C / C++ / AWS 
 
