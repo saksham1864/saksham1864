@@ -12,5 +12,14 @@ Skills:   REACT / JS / HTML / CSS / Python / C / C++ / AWS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=saksham1864)  
 
 
+## 🛠️ Tech Stack
 
-
+- **Web Development**: React, Next.js
+- **Backend Development**: Javascript, Python
+- **Web Design**: figma, canva
+- **Databases**:  mySQL, MangoDB
+- **Tools**: Jupyter Notebook, VS Code, Pycharm
+- **Cloud**: Amazon Web Services
+  
+## 📜 Certifications
+  
