@@ -1,4 +1,4 @@
- Hi there 👋, My name is Saksham
+ Hi There 👋,I'm Saksham
 
 Skills:   REACT / JS / HTML / CSS / Python / C / C++ / AWS 
 
