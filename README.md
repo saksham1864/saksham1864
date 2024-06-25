@@ -8,7 +8,7 @@
 
 - **Web Development**: React, Next.js
 - **Backend Development**: Javascript, Python
-- **Web Design**: figma, canva
+- **Web Design**: figma, framer
 - **Databases**:  mySQL, MangoDB
 - **Tools**: Jupyter Notebook, VS Code, Pycharm
 - **Cloud**: Amazon Web Services
