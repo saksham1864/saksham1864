@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Web Development**: React, Next.js, framer motion,Tailwind CSS
+- **Web Development**: React, Next.js, framer motion, Tailwind CSS
 - **Backend Development**: Javascript, Python
 - **Web Design**: figma, framer
 - **Databases**:  mySQL, MangoDB
