@@ -5,11 +5,13 @@
 - 📫 How to reach me: saksham1864@gmail.com 
 
 ## 🛠️ Tech Stack
+
 - **Software Development & Machine Learning**: C++, Python
 - **Web Development**: React, Next.js, framer motion, Tailwind CSS, Javascript, Python
 - **Databases**: mySQL, MangoDB
 - **Tools**: Jupyter Notebook, VS Code, Pycharm
 - **Cloud**: Amazon Web Services
+
   
 ## 📫 Let's Connect
 
