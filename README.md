@@ -6,7 +6,6 @@
 
 
 
-
 ## 🛠️ Tech Stack
 
 - **Software Development & Machine Learning**: C++, Python
