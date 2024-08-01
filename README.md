@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack
 
 - **Software Development & Machine Learning**: C++, Python
-- **Web Development**: React, Next.js, framer motion, Tailwind CSS, Javascript, Python
+- **Web Development**: React, Tailwind CSS, Javascript, Python
 - **Databases**: mySQL, MangoDB
 - **Tools**: Jupyter Notebook, VS Code, Pycharm
 - **Cloud**: Amazon Web Services
