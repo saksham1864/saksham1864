@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
   <!-- Text on the left -->
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 2; padding-right: 20px;">
     <h2>About the Project</h2>
     <p>
       Provide a brief description of your project here. Explain its purpose, the technologies used, and any key features or functionalities.
@@ -28,9 +28,9 @@
     </pre>
   </div>
 
-  <!-- GIF on the right -->
-  <div style="flex: 1; padding-left: 20px; text-align: center;">
-    <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="Project GIF" style="max-width: 100%; height: auto;" />
+  <!-- Small GIF on the right -->
+  <div style="flex: 1; text-align: center;">
+    <img src="URL_TO_YOUR_GIF" alt="Project GIF" style="max-width: 100px; height: auto;" />
   </div>
 
 </div>
