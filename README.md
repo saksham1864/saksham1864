@@ -1,24 +1,36 @@
-  <div style="flex: 1; padding-left: 20px; text-align: center;">
-    <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="Project GIF" style="max-width: 100%; height: auto;" />
+# Project Title
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <!-- Text on the left -->
+  <div style="flex: 1; padding-right: 20px;">
+    <h2>About the Project</h2>
+    <p>
+      Provide a brief description of your project here. Explain its purpose, the technologies used, and any key features or functionalities.
+    </p>
+    <h3>Features</h3>
+    <ul>
+      <li>Feature 1</li>
+      <li>Feature 2</li>
+      <li>Feature 3</li>
+    </ul>
+    <h3>Installation</h3>
+    <pre>
+      ```bash
+      # Installation steps
+      ```
+    </pre>
+    <h3>Usage</h3>
+    <pre>
+      ```bash
+      # How to use the project
+      ```
+    </pre>
   </div>
-<!-- <p align="center">
-  <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="800px" left="5px"/>
-</p> -->
- Hi There, I'm Saksham
- 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning  C++ 
-- 📫 How to reach me: saksham1864@gmail.com 
 
-## 🛠️ Tech Stack
-- **Software Development & Machine Learning**: C++, Python
-- **Web Development**: React, Tailwind CSS, Javascript, Python
-- **Databases**: mySQL, MangoDB
-- **Tools**: Jupyter Notebook, VS Code, Pycharm
-- **Cloud**: Amazon Web Services
-  
-## 📫 Let's Connect
+  <!-- GIF on the right -->
+  <div style="flex: 1; padding-left: 20px; text-align: center;">
+    <img src="URL_TO_YOUR_GIF" alt="Project GIF" style="max-width: 100%; height: auto;" />
+  </div>
 
-[<img src='https://img.icons8.com/?size=100&id=44019&format=png&color=000000' alt='linkedin' height='50'>](https://www.linkedin.com/in/sakshamsharma24/)   [<img src='https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000' alt='twitter' height='52'>](https://twitter.com/@fawkesverse)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=saksham1864&theme=dark)](https://git.io/streak-stats)
+</div>
