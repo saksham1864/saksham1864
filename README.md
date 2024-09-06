@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning  C++ 
 - 📫 How to reach me: saksham1864@gmail.com 
-<p align="right">
-  <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="400px" />
-</p>
+
+  <img align="right" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated"  />
+
 ## 🛠️ Tech Stack
 - **Software Development & Machine Learning**: C++, Python
 - **Web Development**: React, Tailwind CSS, Javascript, Python
