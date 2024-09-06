@@ -1,5 +1,5 @@
 <img align="right" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="500px" height="300px" />
- <h2 align="center" z="-1">Hi 👋, I'm Saksham Sharma</h2>
+ <h3 align="center" >Hi 👋, I'm Saksham Sharma</h3>
 <h3 align="center">A passionate fullstack developer from India, currently expanding my skillset in machine learning and data science</h3>
 
 - 🔭 I’m currently working on **my portfolio**
