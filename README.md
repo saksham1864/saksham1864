@@ -1,6 +1,6 @@
 
 <p >
-  <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="400px" left="1000px/>
+  <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="400px" right="1000px/>
 </p>
     
  Hi There, I'm Saksham
