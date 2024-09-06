@@ -30,7 +30,7 @@
 
   <!-- Small GIF on the right -->
   <div style="flex: 1; text-align: center;">
-    <img src="URL_TO_YOUR_GIF" alt="Project GIF" style="max-width: 100px; height: auto;" />
+    <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="Project GIF" style="max-width: 100px; height: auto;" />
   </div>
 
 </div>
