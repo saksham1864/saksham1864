@@ -1,4 +1,4 @@
-  <img align="right" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="600px" height="500px" />
+  <img align="right" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="400px" height="200px" />
 
 
   
