@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning  C++ 
 - 📫 How to reach me: saksham1864@gmail.com 
 
-
+   <img align="right" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="500px" height="300px" />
 
 🛠️ Tech Stack
 - **Software Development & Machine Learning**: C++, Python
@@ -16,7 +16,7 @@
 - **Databases**: mySQL, MangoDB
 - **Tools**: Jupyter Notebook, VS Code, Pycharm
 - **Cloud**: Amazon Web Services
-    <img align="right" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="500px" height="300px" />
+ 
 
 📫 Let's Connect
 
