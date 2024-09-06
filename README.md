@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **python(data science)**
 
-- 👨‍💻 All of my projects are available at [(will be updated soon)]((will be updated soon))
+- 👨‍💻 All of my projects are available at [(will be updated soon)]()
 
 - 📫 How to reach me **saksham1864@gmail.com**
 
