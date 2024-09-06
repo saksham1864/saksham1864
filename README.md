@@ -1,7 +1,7 @@
 
-<p style="margin-left: 300px" >
+<div style="margin-left: 300px" >
   <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="400px" />
-</p>
+</div>
     
  Hi There, I'm Saksham
  
