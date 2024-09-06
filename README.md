@@ -1,7 +1,9 @@
-
-<p align="center">
+  <div style="flex: 1; padding-left: 20px; text-align: center;">
+    <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="Project GIF" style="max-width: 100%; height: auto;" />
+  </div>
+<!-- <p align="center">
   <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="800px" left="5px"/>
-</p>
+</p> -->
  Hi There, I'm Saksham
  
 - 🔭 I’m currently working on my portfolio
