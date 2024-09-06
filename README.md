@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning  C++ 
 - 📫 How to reach me: saksham1864@gmail.com 
 <p align="right">
-  <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="200px" />
+  <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="400px" />
 </p>
 ## 🛠️ Tech Stack
 - **Software Development & Machine Learning**: C++, Python
