@@ -10,7 +10,7 @@
 
 
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 - **Software Development & Machine Learning**: C++, Python
 - **Web Development**: React, Tailwind CSS, Javascript, Python
 - **Databases**: mySQL, MangoDB
