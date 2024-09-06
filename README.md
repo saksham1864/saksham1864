@@ -1,5 +1,7 @@
 
- ![](https://art.pixilart.com/sr2a1d29a0458aws3.gif)
+<p align="center">
+  <img src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" />
+</p>
  Hi There, I'm Saksham
  
 - 🔭 I’m currently working on my portfolio
