@@ -1,4 +1,4 @@
-  <img align="right" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="400px"  />
+  <img align="right" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="600px"  />
 
 
   
@@ -17,7 +17,8 @@
 - **Tools**: Jupyter Notebook, VS Code, Pycharm
 - **Cloud**: Amazon Web Services
   
-## 📫 Let's Connect
+
+📫 Let's Connect
 
 [<img src='https://img.icons8.com/?size=100&id=44019&format=png&color=000000' alt='linkedin' height='50'>](https://www.linkedin.com/in/sakshamsharma24/)   [<img src='https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000' alt='twitter' height='52'>](https://twitter.com/@fawkesverse)
 
