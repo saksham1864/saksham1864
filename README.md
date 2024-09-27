@@ -24,4 +24,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=saksham1864&theme=dark)](https://git.io/streak-stats)
 
 
-<img align="center" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="500px" height="500px" />
+<img align="center" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="900px" height="500px" />
