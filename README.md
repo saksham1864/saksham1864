@@ -25,4 +25,4 @@
 
 
 
-<img align="center" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="900px" height="500px" />
+<img align="right" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="300px" height="500px" />
