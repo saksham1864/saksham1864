@@ -20,9 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 
 [<img src='https://img.icons8.com/?size=100&id=44019&format=png&color=000000' alt='linkedin' height='50'>](https://www.linkedin.com/in/sakshamsharma24/)   [<img src='https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000' alt='twitter' height='52'>](https://twitter.com/@fawkesverse)
+<img align="right" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="400px" height="200px" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saksham1864&theme=merko&border_radius=14.5)](https://git.io/streak-stats)
 
 
 
-<img align="right" src="https://art.pixilart.com/sr2a1d29a0458aws3.gif" alt="animated" width="300px" height="500px" />
+
